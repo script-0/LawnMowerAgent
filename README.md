@@ -1,6 +1,7 @@
 # LawnMowerAgent
 Lawn Mower as an Agent with MESA Framework
 
+We first Code as Agent :smiley:
 - How to install
 
 ```bash
