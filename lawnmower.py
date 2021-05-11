@@ -7,7 +7,7 @@ from mesa.space import MultiGrid
 from typing import Tuple
 
 """
-	Defining Agent clas
+	Defining Agent class
 """
 
 class MowerAgent(Agent):
